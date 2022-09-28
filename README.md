@@ -9,3 +9,5 @@ The musical components are relatively simple: with four-note groups selecting no
 and these short segments were played and repeated by each of the wavetable synthesis unit generators at certain time marks.
 The overall form presents an ABA’ structure according the changes in the short motifs (some of them are randomized and shuffled each time they are introduced). 
 Lastly, the ambience/backgrounds are done by using granular synthesis unit generators in SuperCollider.
+
+link to a video performance of SC Phase: https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/34097408354765399784094017748740724549645512417093214538653805493152028557313/
