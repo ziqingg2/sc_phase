@@ -1,7 +1,5 @@
 # sc_phase
 
-SC Phase
-Ziqing (Gary) Gong
 SC Phase is a minimalist computer music composition finished entirely using SuperCollider. 
 The core of this composition is an eight-voice cannon with excessive repetitions. 
 The synthesis technique which composes most of the sounds is wavetable synthesis: 
